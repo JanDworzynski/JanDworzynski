@@ -16,7 +16,7 @@ One day I want to work in cybersecurity or networking. </br>
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP  
 **Systems:** Linux, Windows Server  
 **Tools:** Cisco Packet Tracer, Git, Wireshark  
-**Programming:** HTML, CSS, JavaScript, Python
+**Programming:** HTML, CSS, JavaScript
 
 ## Certifications
 
