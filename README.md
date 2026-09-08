@@ -16,7 +16,7 @@ I am still learning everything.
 
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP  
 **Systems:** Linux, Windows Server  
-**Tools:** Cisco Packet Tracer, Git, Wireshark  
+**Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio
 **Programming:** HTML, CSS, JavaScript
 
 ## Certifications
