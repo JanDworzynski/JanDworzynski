@@ -20,7 +20,7 @@ I am still learning everything.
 **Programming:** HTML, CSS, JavaScript
 
 ## Expeirence
-
+I worked about 300 hours in IT Company. I was welding fiber optics, doorphone installing, making 25gb fiber connections beetween servers, servicing computers,
 
 ## Certifications
 
