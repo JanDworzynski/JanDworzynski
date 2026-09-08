@@ -9,3 +9,6 @@ I put my projects here and just try to learn new things. I also try to not use A
 One day I want to work in cybersecurity or networking.  </br>
 
 ## Skills
+<a href="https://www.credly.com/badges/e0d0b94e-7ab7-4e8b-ae85-1e73c783144c/public_url">
+  <img src="https://images.credly.com/size/340x340/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="Cisco CCNA" width="150">
+</a>
