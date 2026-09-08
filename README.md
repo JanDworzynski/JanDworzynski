@@ -19,11 +19,9 @@ I am still learning everything.
 **Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio, Cloudflare
 **Programming:** HTML, CSS, JavaScript
 
-## Expeirence
 ## Experience
-I worked around 300 hours in an IT company. I was working with fiber optics, installing doorphones, making 25Gb fiber connections between servers, and maintaining computers.
-I also took a big part in creating and maintaining our school Minecraft servers. I installed Ubuntu on machines, configured Pterodactyl, set up Cloudflare Tunnels and worked with the server infrastructure.
-
+I worked around 300 hours in an IT company. I worked with fiber optics, installed doorphones, made 25Gb fiber connections between servers, maintained computers, and did a lot of other stuff.
+I also took a big part in creating and maintaining our school Minecraft servers. I installed Ubuntu on machines, configured Pterodactyl, set up Cloudflare Tunnels, and worked with the server infrastructure.
 ## Certifications
 
 <a href="https://www.credly.com/badges/e0d0b94e-7ab7-4e8b-ae85-1e73c783144c/public_url" target="_blank" rel="noopener noreferrer">
