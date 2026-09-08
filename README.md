@@ -7,3 +7,5 @@
 I'm 18yo guy learning networking and other IT stuff. </br>
 I put my projects here and just try to learn new things. I also try to not use AI for my projects, I swear 😭  </br>
 One day I want to work in cybersecurity or networking.  </br>
+
+## Skills
