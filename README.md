@@ -14,13 +14,15 @@ I am still learning everything.
   <img src="https://skillicons.dev/icons?i=cpp,js,discord,git,github,html,linux&theme=dark" alt="skills" />
 </p>
 
-**Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP  
+**Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling  
 **Systems:** Linux, Windows Server  
-**Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio
+**Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio, Cloudflare
 **Programming:** HTML, CSS, JavaScript
 
 ## Expeirence
-I worked about 300 hours in IT Company. I was welding fiber optics, doorphone installing, making 25gb fiber connections beetween servers, servicing computers,
+## Experience
+I worked around 300 hours in an IT company. I was working with fiber optics, installing doorphones, making 25Gb fiber connections between servers, and maintaining computers.
+I also took a big part in creating and maintaining our school Minecraft servers. I installed Ubuntu on machines, configured Pterodactyl, set up Cloudflare Tunnels and worked with the server infrastructure.
 
 ## Certifications
 
