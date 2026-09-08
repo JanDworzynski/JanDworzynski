@@ -10,7 +10,7 @@ One day I want to work in cybersecurity or networking. </br>
 ## Skills
 ## Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,discord,git,github,html,linux&theme=dark" alt="skills" />
 </p>
 
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP  
