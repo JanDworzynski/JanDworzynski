@@ -13,6 +13,11 @@ I am still learning everything.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,discord,git,github,html,linux,cloudflare&theme=dark" alt="skills" />
 </p>
+## Projects
+
+* [Random Number RNG](https://github.com/JanDworzynski/WhoGonnaAnswer-RNG)
+* [JanNetCommaneder](https://github.com/JanDworzynski/JanNetCommaneder)
+
 
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling   </br>
 **Systems:** Linux, Windows Server   </br>
