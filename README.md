@@ -14,10 +14,10 @@ I am still learning everything.
   <img src="https://skillicons.dev/icons?i=cpp,js,discord,git,github,html,linux,cloudflare&theme=dark" alt="skills" />
 </p>
 
-**Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling  
-**Systems:** Linux, Windows Server  
-**Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio, Cloudflare
-**Programming:** HTML, CSS, JavaScript
+**Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling   </br>
+**Systems:** Linux, Windows Server   </br>
+**Tools:** Cisco Packet Tracer, Git, Wireshark, NMAP, Visual Studio, Cloudflare </br>
+**Programming:** HTML, CSS, JavaScript </br>
 
 ## Experience
 I worked around 300 hours in an IT company. I worked with fiber optics, installed doorphones, made 25Gb fiber connections between servers, maintained computers, and did a lot of other stuff.
