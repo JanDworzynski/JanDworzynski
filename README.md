@@ -41,3 +41,7 @@ I also took a big part in creating and maintaining our school Minecraft servers.
 <a href="https://www.credly.com/badges/34a3e279-ca8b-4998-8f88-5f6bc95f0596/public_url" target="_blank" rel="noopener noreferrer">
   <img src="https://images.credly.com/size/340x340/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png" alt="Cisco CCNA" width="150">
 </a>
+
+<a href="https://www.credly.com/badges/7150e2aa-286a-4956-a4b2-2748dc238d55" target="_blank" rel="noopener noreferrer">
+  <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco CyberSec" width="150">
+</a>
