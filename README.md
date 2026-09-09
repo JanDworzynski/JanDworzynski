@@ -19,6 +19,7 @@ I am still learning everything.
 * [Random Number RNG](https://github.com/JanDworzynski/WhoGonnaAnswer-RNG)
 * [JanNetCommaneder](https://github.com/JanDworzynski/JanNetCommaneder)
 
+# Skills
 
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling   </br>
 **Systems:** Linux, Windows Server   </br>
