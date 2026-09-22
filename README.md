@@ -11,7 +11,7 @@ I am still learning everything and trying my best to not became a SKID!!! ðŸ¤¬ðŸ
 
 ## Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,js,discord,git,github,html,linux,cloudflare&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,discord,git,github,html,css,linux,cloudflare&theme=dark" alt="skills" />
 </p>
 
 **Networking:** Cisco, VLAN, Routing, Switching, TCP/IP, DNS, DHCP, Tunneling   </br>
